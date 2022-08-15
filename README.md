@@ -28,3 +28,4 @@ Part 2 Steps:
 - 2.8 changing Security in database folder Properties (FULL) - same result
 - 2.9 copying database to a different location - test connection - succeeded
 - 3.0 rebuild - 4 errors and 20 warnings: error_list_could_not_copy.png
+- 3.1 errors above ignored; proceeded with the instruction from the video
