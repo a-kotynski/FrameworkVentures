@@ -1,7 +1,7 @@
 Trying to follow a tutorial for insert/save data to SQL Database: https://www.youtube.com/watch?v=qOQazNEkxsU
 
 Part 1 Steps:
-1.1 I need older .net framework to add ADO.NET Entity Data Model
+-1.1 I need older .net framework to add ADO.NET Entity Data Model
 1.2 video shows .NET 4.6.1
 1.3 I get 4.8 to see if it's the same lol
 1.4 I install both
