@@ -25,3 +25,6 @@ Part 2 Steps:
 - 2.5 I browse for Database file
 - 2.6 I choose northwind.mdf
 - 2.7 the result of 'Test Connection' or 'OK' is an error from the file database connection.png
+- 2.8 changing Security in database folder Properties (FULL) - same result
+- 2.9 copying database to a different location - test connection - succeeded
+- 3.0 rebuild - 4 errors and 20 warnings
