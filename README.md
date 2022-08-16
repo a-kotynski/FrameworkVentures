@@ -30,3 +30,4 @@ Part 2 Steps:
 - 3.0 rebuild - 4 errors and 20 warnings: error_list_could_not_copy.png
 - 3.1 errors above ignored; proceeded with the instruction from the video
 - 3.2 encountered exception problem error_exception.png
+- 3.3 added exception; code has no errors, nothing works *shrugs*
